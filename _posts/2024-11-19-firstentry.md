@@ -2,7 +2,7 @@
 title: "First Entry"
 date: 2024-11-19
 ---
-![Your enemies will hate you and there's nothing you can do to change their ideas. This is an important lession everyone should learn](/images/chuddo.jpg)
+
 It is common knowledge that people create blogs to talk about any stuff they like. Cooking, book reviews and so on. And there is nothing wrong with that. 
 Many people however use these personal blogs as internet diaries where they can use their anonimity to vent their frustrations, anger with the world (society or something like that idk) and insults torwards so called horrible people.
 These usually end up in schizo rants about nobody loving them and then end up with either a suicide note or a frustrated coming out in some of the cases.
